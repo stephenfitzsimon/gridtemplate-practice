@@ -1,0 +1,12 @@
+.container {
+    display: grid;
+    background-color: lightgoldenrodyellow;
+    border: solid 1px lightsalmon;
+}
+
+.box {
+    background-color: lightcoral;
+    border: solid 1px skyblue;
+    height: 100px;
+    width: 100px;
+}
